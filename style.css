@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, yellow, orange)
+}
+#nummer {
+    width: 50%;
+    height: 40px;
+    border: 2px solid red;
+    border-radius: 4px;
+    font-family: sans-serif, Verdana, Geneva, Tahoma;
+    font-size: 20px;
+}
+#verzenden {
+    width: 150px;
+    height: 50px;
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 8px;
+    border: 2px solid red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+.info {
+    font-family: dancing script;
+    font-size: 50px;
+}
